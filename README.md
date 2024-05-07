@@ -1,4 +1,3 @@
-<img width="962" alt="320199228-0f99f497-5145-41cb-971d-0b96a339897b" src="https://github.com/alwaysajay3011/VLSI-LAB-EXP-1/assets/161150132/e69bd80a-4b8d-4da9-8d4d-f75c2b7e5b98"># 1.SIMULATION AND SYNTHESIS OF LOGIC GATES,ADDERS,SUBTRACTORS
 # AIM: 
 To simulate and synthesis Logic Gates,Adders and Subtractor using Vivado 2023.1
 
